@@ -18,6 +18,7 @@ options = {
       # 'margin-left': '0.1in',
       'encoding': "UTF-8",
       #'no-outline': None
+      'debug-javascript': '',
       'javascript-delay': '10000'
 }
 
